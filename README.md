@@ -1,6 +1,6 @@
 ![](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
-![GitHub followers](https://img.shields.io/github/followers/lennen?label=GitHub%20Followers&logo=github&color=red)
-![](https://komarev.com/ghpvc/?username=lennen&color=red)
+![GitHub followers](https://img.shields.io/github/followers/danya-byte?label=GitHub%20Followers&logo=github&color=red)
+![](https://komarev.com/ghpvc/?username=danya-byte&color=red)
 
 
 <h3 align="center">Just take a look at my projects</h3>
