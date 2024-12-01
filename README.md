@@ -3,7 +3,10 @@
 ![](https://komarev.com/ghpvc/?username=danya-byte&color=red)
 
 
+
 <h3 align="center">Just take a look at my projects</h3>
+
+
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
